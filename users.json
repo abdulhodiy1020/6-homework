@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name" : "Madina",
+        "phone": 777342020,
+        "password": "2002"
+    },
+        {
+        "id": 2,
+        "name" : "Mubina",
+        "phone": 940432575,
+        "password": "2004"
+    },
+    {
+        "id": 3,
+        "name" : "Zarina",
+        "phone": 995576567,
+        "password": "2006"
+    }
+]

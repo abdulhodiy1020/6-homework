@@ -1,0 +1,9 @@
+{
+  "type": "commonjs",
+  "scripts": {
+    "start:dev": "node --watch main.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
